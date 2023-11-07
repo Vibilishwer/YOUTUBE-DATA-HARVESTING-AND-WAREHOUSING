@@ -4,9 +4,10 @@ This project aims to harvest data from YouTube using Python scripting and store 
 
 Prerequisites Before running the scripts, make sure you have the following dependencies installed:
 
-Python
-MongoDB
-MySQL
+* Python
+* MongoDB
+* MySQL
+
 Configure the MongoDB and MySQL database connection:
 
 Open the youtube.py file and update the MongoDB and MySQL connection details. Make sure you have a MongoDB database and collection created to store the harvested data. Create a MySQL database and tables to store the migrated data.
